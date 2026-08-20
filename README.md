@@ -190,7 +190,7 @@ The executive page summarizes the experiment using:
 
 The page is designed for a stakeholder who needs the answer quickly.
 
-![Executive Experiment](powerbi/screenshots/01-executive-experiment.png)
+![Executive Experiment](Power%20BI/Screenshots/01-executive-experiment.png)
 
 </details>
 
@@ -209,7 +209,7 @@ Key analysis includes:
 
 The page intentionally uses multiple visual types rather than relying exclusively on bar and column charts.
 
-![Customer & Segment Intelligence](powerbi/screenshots/02-customer-segment-intelligence.png)
+![Customer & Segment Intelligence](Power%20BI/Screenshots/02-customer-segment-intelligence.png)
 
 </details>
 
@@ -234,7 +234,7 @@ The statistical summary distinguishes between significant and non-significant ou
 | Pages Visited     | Welch's T-Test        | **Not significant** |
 | Session Duration  | Welch's T-Test        | **Not significant** |
 
-![Experiment & Statistical Analysis](powerbi/screenshots/03-experiment-statistical-analysis.png)
+![Experiment & Statistical Analysis](Power%20BI/Screenshots/03-experiment-statistical-analysis.png)
 
 </details>
 
@@ -260,7 +260,7 @@ The final page converts the analysis into a business recommendation. It includes
 
 The report also recommends continued experimentation and optimization using the strongest-performing segments identified during the analysis.
 
-![Decision Intelligence](powerbi/screenshots/04-decision-intelligence.png)
+![Decision Intelligence](Power%20BI/Screenshots/04-decision-intelligence.png)
 
 </details>
 
@@ -448,37 +448,36 @@ Used for:
 <summary>Click to expand folder tree</summary>
 
 ```text
-ab-testing-landing-page-optimization/
+Landing-Page-Optimization-Analytics
+│   AB-Testing-README.md
 │
-├── README.md
+├── Analysis
+│       01_Data_Cleaning.ipynb
+│       02_Exploratory_Data_Analysis.ipynb
+│       04_Statistical_Analysis.ipynb
 │
-├── powerbi/
-│   ├── AB_Testing_Landing_Page_Optimization.pbix
-│   └── screenshots/
-│       ├── 01-executive-experiment.png
-│       ├── 02-customer-segment-intelligence.png
-│       ├── 03-experiment-statistical-analysis.png
-│       └── 04-decision-intelligence.png
+├── Dataset
+│       AB Testing Data.csv
 │
-├── analysis/
-│   ├── ab_testing_analysis.ipynb
-│   └── statistical_results.csv
+├── Documentation
+│       Power_BI_Report_Documentation_AB_Testing.pdf
 │
-├── documentation/
-│   ├── Power_BI_Report_Documentation.pdf
-│   ├── Data_Model.md
-│   ├── DAX_Measures.md
-│   └── Performance_Analysis.md
+├── Output
+│       cleaned_data.csv
+│       experiment_summary.csv
+│       hypothesis_test_results.csv
 │
-├── data/
-│   └── README.md
-│
-└── .gitignore
+└── Power BI
+    │   A-B testing.pbix
+    │
+    └── Screenshots
+            01-executive-experiment.png
+            02-customer-segment-intelligence.png
+            03-experiment-statistical-analysis.png
+            04-decision-intelligence.png
 ```
 
 </details>
-
-> **Dataset note:** Do not commit the raw dataset if its license or redistribution terms do not permit it. The `data/README.md` file should explain the dataset source and how to reproduce the analysis.
 
 <div align="right"><a href="#top">⬆️ Back to top</a></div>
 
@@ -595,16 +594,16 @@ The experiment should also serve as a baseline for future landing-page optimizat
 ## 🖼️ Dashboard Preview
 
 ### 01 — Executive Experiment
-![Executive Experiment](powerbi/screenshots/01-executive-experiment.png)
+![Executive Experiment](Power%20BI/Screenshots/01-executive-experiment.png)
 
 ### 02 — Customer & Segment Intelligence
-![Customer & Segment Intelligence](powerbi/screenshots/02-customer-segment-intelligence.png)
+![Customer & Segment Intelligence](Power%20BI/Screenshots/02-customer-segment-intelligence.png)
 
 ### 03 — Experiment & Statistical Analysis
-![Experiment & Statistical Analysis](powerbi/screenshots/03-experiment-statistical-analysis.png)
+![Experiment & Statistical Analysis](Power%20BI/Screenshots/03-experiment-statistical-analysis.png)
 
 ### 04 — Decision Intelligence
-![Decision Intelligence](powerbi/screenshots/04-decision-intelligence.png)
+![Decision Intelligence](Power%20BI/Screenshots/04-decision-intelligence.png)
 
 <div align="right"><a href="#top">⬆️ Back to top</a></div>
 
