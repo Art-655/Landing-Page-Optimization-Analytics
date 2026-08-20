@@ -21,10 +21,10 @@ The project combines **statistical experimentation, behavioral analysis, segment
 
 <!-- LIVE REPO STATS — replace YOUR-USERNAME (and the repo name below if it differs) once pushed -->
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/YOUR-USERNAME/ab-testing-landing-page-optimization?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/YOUR-USERNAME/ab-testing-landing-page-optimization?style=flat-square" />
-  <img src="https://img.shields.io/github/license/YOUR-USERNAME/ab-testing-landing-page-optimization?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/YOUR-USERNAME/ab-testing-landing-page-optimization?style=flat-square&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/Art-655/Landing-Page-Optimization-Analytics?style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/Art-655/Landing-Page-Optimization-Analytics?style=flat-square" />
+  <img src="https://img.shields.io/github/license/Art-655/Landing-Page-Optimization-Analytics?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/Art-655/Landing-Page-Optimization-Analytics?style=flat-square&color=yellow" />
 </p>
 
 ---
@@ -44,6 +44,8 @@ The project combines **statistical experimentation, behavioral analysis, segment
 - [🔍 Key Insights](#key-insights)
 - [💼 Business Recommendation](#business-recommendation)
 - [🚀 What This Project Demonstrates](#what-this-project-demonstrates)
+- [🖼️ Dashboard Preview](#dashboard-preview)
+- [👤 About the Developer](#about-the-developer)
 - [📌 Final Project Status](#final-project-status)
 
 ---
@@ -584,6 +586,40 @@ The experiment should also serve as a baseline for future landing-page optimizat
 * Data-driven decision-making
 
 </details>
+
+<div align="right"><a href="#top">⬆️ Back to top</a></div>
+
+---
+
+<a name="dashboard-preview"></a>
+## 🖼️ Dashboard Preview
+
+### 01 — Executive Experiment
+![Executive Experiment](powerbi/screenshots/01-executive-experiment.png)
+
+### 02 — Customer & Segment Intelligence
+![Customer & Segment Intelligence](powerbi/screenshots/02-customer-segment-intelligence.png)
+
+### 03 — Experiment & Statistical Analysis
+![Experiment & Statistical Analysis](powerbi/screenshots/03-experiment-statistical-analysis.png)
+
+### 04 — Decision Intelligence
+![Decision Intelligence](powerbi/screenshots/04-decision-intelligence.png)
+
+<div align="right"><a href="#top">⬆️ Back to top</a></div>
+
+---
+
+<a name="about-the-developer"></a>
+## 👤 About the Developer
+
+**Arunraj Tawalke**
+
+Aspiring Data Analyst passionate about transforming raw data into actionable business insights using **Power BI**, **SQL**, **Excel**, and **Python**.
+
+* **GitHub:** [@Art-655](https://github.com/Art-655)
+* **LinkedIn:** [arunraj-tawalke-5a079828a](https://www.linkedin.com/in/arunraj-tawalke-5a079828a/)
+* **Email:** [rajtawalke2004@gmail.com](mailto:rajtawalke2004@gmail.com)
 
 <div align="right"><a href="#top">⬆️ Back to top</a></div>
 
