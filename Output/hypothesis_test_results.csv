@@ -1,0 +1,5 @@
+Metric,Test,Statistic,P-value,Significant
+Conversion,Two-Proportion Z-Test,46.277339891305736,0.0,True
+Revenue,Welch T-Test,40.738233217830015,0.0,True
+Session Duration,Welch T-Test,-0.4233488900171824,0.6720410381088121,False
+Pages Visited,Welch T-Test,1.1634825688131725,0.24463470913439095,False
